@@ -1,0 +1,1 @@
+from nosemultithread import MultiThread
